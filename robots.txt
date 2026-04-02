@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Jackaroni247.github.io/sitemap.xml
+Sitemap: https://https://jackaroni247.github.io/Portfolio.github.io//sitemap.xml
